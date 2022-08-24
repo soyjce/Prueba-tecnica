@@ -1,0 +1,51 @@
+{
+    "descripcion": "Examen 1",
+    "preguntas": [{
+
+        "descripcion" : "Pregunta 1",
+        "opciones" : [{
+
+            "descripcion": "Pregunta 1 - Opcion 1",
+            "esCorrecta": 1,
+            "puntos" : 50
+
+        },{
+
+            "descripcion": "Pregunta 1 - Opcion 2",
+            "esCorrecta": 0,
+            "puntos" : 0
+
+        },{
+
+            "descripcion": "Pregunta 1 - Opcion 3",
+            "esCorrecta": 0,
+            "puntos" : 0
+        }
+        ]
+                
+    },{
+        "descripcion" : "Pregunta 2",
+        "opciones" : [{
+
+            "descripcion": "Pregunta 2 - Opcion 1",
+            "esCorrecta": 0,
+            "puntos" : 0
+
+        },{
+
+            "descripcion": "Pregunta 2 - Opcion 2",
+            "esCorrecta": 0,
+            "puntos" : 0
+
+        },{
+
+            "descripcion": "Pregunta 2 - Opcion 3",
+            "esCorrecta": 1,
+            "puntos" : 50
+
+        }]
+                
+    }
+    
+    ]
+}

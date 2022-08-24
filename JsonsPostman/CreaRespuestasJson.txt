@@ -1,0 +1,16 @@
+[
+    {
+        "idExamen" : 1,
+        "idEstudiante" : 1,
+        "idPregunta" : 1,
+        "idOpcion" : 2
+
+    },
+    {
+        "idExamen" : 1,
+        "idEstudiante" : 1,
+        "idPregunta" : 2,
+        "idOpcion" : 3
+    }
+
+]

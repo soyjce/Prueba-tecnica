@@ -1,0 +1,7 @@
+{
+    "nombre" : "Arnoldo Rodriguez Parra",
+    "edad" : 36,
+    "ciudad" : {
+            "idCiudad" : 1
+        }    
+}

@@ -1,0 +1,6 @@
+{    
+    "idExamen" : 1,
+    "idEstudiante" : 1,
+    "fechaExamen" : "30/08/2022",
+    "calificacion" : 0
+}
